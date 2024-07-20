@@ -6,4 +6,5 @@ if cate=="chess":
     print("the rest is"+  rest)
 else:
     print('not found')    
+    print("notfound")
     
