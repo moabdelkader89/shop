@@ -1,0 +1,1 @@
+its pipeline based on change in code in vscode then save the changeds in the code and deploy it in jenkins and create docker image all with that sending email to the team that all that has been happend
